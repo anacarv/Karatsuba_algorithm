@@ -152,5 +152,5 @@ Este arquivo contém exemplos de funções com diferentes complexidades:
 ```
 Digite o primeiro número: 1456
 Digite o segundo número: 6533
-Resultado da multiplicação: 9513648
+Resultado da multiplicação: 9512048
 ```
